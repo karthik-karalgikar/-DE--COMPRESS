@@ -39,5 +39,5 @@ Screenshot 10: To share the compressed file, there are two options provided, gma
 <img width="732" alt="Screenshot 2023-08-23 at 6 49 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/8b5dfb10-42f9-4e66-a776-a3207c185948">----------------------------
 Screenshot 11: When the user clicks on the “gmail” option, Gmail opens up and the user can send the file to anyone.
 
-<img width="383" alt="Screenshot 2023-08-23 at 6 50 58 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/159904dc-4d6c-4fe2-8fea-470b68201fb0">--------------------------------------------------------
+<img width="383" alt="Screenshot 2023-08-23 at 6 50 58 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/159904dc-4d6c-4fe2-8fea-470b68201fb0">-----------------------------------------------------------------------------
 Screenshot 12: When the user clicks on the “WhatsApp” option, WhatsApp opens up and the user can send the file to anyone.
