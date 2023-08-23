@@ -15,26 +15,29 @@ Screenshot 2:  The Screenshot above lets the user name their file and type some 
 <img width="812" alt="Screenshot 2023-08-23 at 6 41 33 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/822f3458-2a1e-4737-a348-959a3fa042b8">----------------------
 Screenshot 3: Showing the size of the file which the user just created. It can be seen that the ‘compressmain.txt’ file takes up 590kb of space.
 
-<img width="764" alt="Screenshot 2023-08-23 at 6 43 36 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/905f09ef-9e6d-485d-8dbd-ad7361b6bd54">
+<img width="764" alt="Screenshot 2023-08-23 at 6 43 36 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/905f09ef-9e6d-485d-8dbd-ad7361b6bd54">----------------------------
 Screenshot 4:  Showing the Compress-decompress page. Here the ‘compress main.txt’ has been uploaded and next the user has to click on the “COMPRESS” button to compress the file. Once that has been done, the compressed version of the file is downloaded on to the user’s system.
 
-<img width="755" alt="Screenshot 2023-08-23 at 6 44 26 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/96cb3e55-7f47-4e86-9003-c861b60b49cc">
+<img width="755" alt="Screenshot 2023-08-23 at 6 44 26 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/96cb3e55-7f47-4e86-9003-c861b60b49cc">----------------------------
 Screenshot 5: The above screenshot shoes the compressed file “compressmain_compressed.txt”. This occupies a space of 517kb.
 
-<img width="783" alt="Screenshot 2023-08-23 at 6 45 24 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/51824a92-3d91-46e0-bb25-00f540ac2239">
+<img width="783" alt="Screenshot 2023-08-23 at 6 45 24 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/51824a92-3d91-46e0-bb25-00f540ac2239">----------------------------
 Screenshot 6: The above screenshot shows the content of the compressed file.
 
-<img width="696" alt="Screenshot 2023-08-23 at 6 46 18 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/7e58681f-94bb-4501-8e65-bf5ded9ef991">
+<img width="696" alt="Screenshot 2023-08-23 at 6 46 18 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/7e58681f-94bb-4501-8e65-bf5ded9ef991">----------------------------
 Screenshot 7: Showing the compressed file has been uploaded and is decompressed and is downloaded on to the user’s system.
 
-<img width="771" alt="Screenshot 2023-08-23 at 6 47 08 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/0780cd49-c738-4465-8526-dd982723c3af">
+<img width="771" alt="Screenshot 2023-08-23 at 6 47 08 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/0780cd49-c738-4465-8526-dd982723c3af">----------------------------
 Screenshot 8: Showing the decompressed file - “compressmain_compressed_decompressed.txt”. The size of the file is 590kb, which is the same size as of the original file.
 
-<img width="735" alt="Screenshot 2023-08-23 at 6 48 00 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/50382ec6-985a-4701-93f0-b29a9975d40a">
+<img width="735" alt="Screenshot 2023-08-23 at 6 48 00 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/50382ec6-985a-4701-93f0-b29a9975d40a">----------------------------
 Screenshot 9: Showing the content of the decompress file, compressmain_compressed_decompressed.txt. It is the same as the original file, compressmain.
 
-<img width="574" alt="Screenshot 2023-08-23 at 6 49 05 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/52666a7c-cb0d-4e24-82ca-9fb9795ec4d4">
+<img width="574" alt="Screenshot 2023-08-23 at 6 49 05 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/52666a7c-cb0d-4e24-82ca-9fb9795ec4d4">----------------------------
 Screenshot 10: To share the compressed file, there are two options provided, gmail or WhatsApp. First, the user needs to choose the file that they want to share and then choose via which platform they want to share their file.
 
-<img width="732" alt="Screenshot 2023-08-23 at 6 49 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/8b5dfb10-42f9-4e66-a776-a3207c185948">
+<img width="732" alt="Screenshot 2023-08-23 at 6 49 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/8b5dfb10-42f9-4e66-a776-a3207c185948">----------------------------
 Screenshot 11: When the user clicks on the “gmail” option, Gmail opens up and the user can send the file to anyone.
+
+<img width="383" alt="Screenshot 2023-08-23 at 6 50 58 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/159904dc-4d6c-4fe2-8fea-470b68201fb0">----------------------------
+Screenshot 12: When the user clicks on the “WhatsApp” option, WhatsApp opens up and the user can send the file to anyone.
