@@ -23,3 +23,6 @@ Screenshot 5: The above screenshot shoes the compressed file “compressmain_com
 
 <img width="783" alt="Screenshot 2023-08-23 at 6 45 24 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/51824a92-3d91-46e0-bb25-00f540ac2239">
 Screenshot 6: The above screenshot shows the content of the compressed file.
+
+<img width="696" alt="Screenshot 2023-08-23 at 6 46 18 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/7e58681f-94bb-4501-8e65-bf5ded9ef991">
+Screenshot 7: Showing the compressed file has been uploaded and is decompressed and is downloaded on to the user’s system.
