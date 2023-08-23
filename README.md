@@ -18,3 +18,5 @@ Screenshot 3: Showing the size of the file which the user just created. It can b
 <img width="764" alt="Screenshot 2023-08-23 at 6 43 36 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/905f09ef-9e6d-485d-8dbd-ad7361b6bd54">
 Screenshot 4:  Showing the Compress-decompress page. Here the ‘compress main.txt’ has been uploaded and next the user has to click on the “COMPRESS” button to compress the file. Once that has been done, the compressed version of the file is downloaded on to the user’s system.
 
+<img width="755" alt="Screenshot 2023-08-23 at 6 44 26 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/96cb3e55-7f47-4e86-9003-c861b60b49cc">
+Screenshot 5: The above screenshot shoes the compressed file “compressmain_compressed.txt”. This occupies a space of 517kb.
