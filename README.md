@@ -26,3 +26,6 @@ Screenshot 6: The above screenshot shows the content of the compressed file.
 
 <img width="696" alt="Screenshot 2023-08-23 at 6 46 18 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/7e58681f-94bb-4501-8e65-bf5ded9ef991">
 Screenshot 7: Showing the compressed file has been uploaded and is decompressed and is downloaded on to the user’s system.
+
+<img width="771" alt="Screenshot 2023-08-23 at 6 47 08 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/0780cd49-c738-4465-8526-dd982723c3af">
+Screenshot 8: Showing the decompressed file - “compressmain_compressed_decompressed.txt”. The size of the file is 590kb, which is the same size as of the original file.
