@@ -35,3 +35,6 @@ Screenshot 9: Showing the content of the decompress file, compressmain_compresse
 
 <img width="574" alt="Screenshot 2023-08-23 at 6 49 05 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/52666a7c-cb0d-4e24-82ca-9fb9795ec4d4">
 Screenshot 10: To share the compressed file, there are two options provided, gmail or WhatsApp. First, the user needs to choose the file that they want to share and then choose via which platform they want to share their file.
+
+<img width="732" alt="Screenshot 2023-08-23 at 6 49 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/8b5dfb10-42f9-4e66-a776-a3207c185948">
+Screenshot 11: When the user clicks on the “gmail” option, Gmail opens up and the user can send the file to anyone.
