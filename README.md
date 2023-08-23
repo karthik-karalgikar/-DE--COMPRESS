@@ -20,3 +20,6 @@ Screenshot 4:  Showing the Compress-decompress page. Here the ‘compress main.t
 
 <img width="755" alt="Screenshot 2023-08-23 at 6 44 26 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/96cb3e55-7f47-4e86-9003-c861b60b49cc">
 Screenshot 5: The above screenshot shoes the compressed file “compressmain_compressed.txt”. This occupies a space of 517kb.
+
+<img width="783" alt="Screenshot 2023-08-23 at 6 45 24 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/51824a92-3d91-46e0-bb25-00f540ac2239">
+Screenshot 6: The above screenshot shows the content of the compressed file.
