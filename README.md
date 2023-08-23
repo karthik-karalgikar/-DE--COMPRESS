@@ -9,5 +9,5 @@ The following images give an insight of how the website looks:
 <img width="798" alt="Screenshot 2023-08-23 at 6 36 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/2fc8c890-8bf9-4a06-bf5e-0a602fa614ba">----------------------------
 Screenshot 1: The above screenshot is the homepage of the website. Each button on the navbar will take the user to create, compress, decompress and share pages
 
-<img width="800" alt="Screenshot 2023-08-23 at 6 38 44 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/c1dafa02-1a3d-44fb-9a01-9f375bbe1aa0">--------------------------------------------
+[<img width="800" alt="Screenshot 2023-08-23 at 6 38 44 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/c1dafa02-1a3d-44fb-9a01-9f375bbe1aa0">](https://github.com/karthik-karalgikar/-DE--COMPRESS/issues/1#issuecomment-1689937633)--------------------------------------------
 Screenshot 2:  The Screenshot above lets the user name their file and type some content on to the text-box. The file and the text can be anything and when “Save File” button is clicked the, file is saved on the user’s system. If the user wants to compress the downloaded file, then they can just click on the link at the bottom of the page and he/she is directed to the “compress-decompress page”. 
