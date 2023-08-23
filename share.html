@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <title>File Sharing</title>
+</head>
+<body>
+  <h1>File Sharing</h1>
+  <br>
+  <br>
+  
+  <form method="post" enctype="multipart/form-data" class="form" id="fileform">
+    <input type="file" id="uploadfile"  class="input">
+    <br>
+    <input type="button" id="submitbtn"  class="input" value="Submit">
+    </form>
+    <br>
+    <br>
+
+  <div class = "compressbutton" id="compressionOptions" >
+    <h2>Share your compressed file here!</h2>
+    <br>
+    <br>
+    <button id="compressButton">Share via</button>
+    <select id="shareOptions">
+      <option value="gmail">Gmail</option>
+      <option value="whatsapp">WhatsApp</option>
+    </select>
+  </div>
+
+  <div id="decompressionOptions" style="display:none">
+    <h2>Decompression Options</h2>
+    <button id="decompressButton">Decompress</button>
+  </div>
+
+  <div id="downloadLink" style="display:none">
+    <h2>Download Link</h2>
+    <a id="compressedFileLink" href="#" download>Download Compressed File</a>
+  </div>
+
+  <button id="restartButton" style="display:none">Click here to start again</button>
+
+  <script src="sharingscript.js"></script>
+  <br>
+  <br>
+  <h2>Back to <a href="homepage.html">homepage!</a></h2>
+</body>
+</html>
+<style>
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family:poppins;
+    background-color:  rgba(243, 239, 239, 0.787);
+  }
+  h1, h2{
+    color: black;
+    text-align: center;
+  }
+  .banner-area{
+    background-color : #005762
+    height 100px;
+  }
+  .text-area{
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+  }
+  .text-area h2{
+    font-size: 75px;
+    color: #fff;
+    margin: 10% 0 0;
+  }
+  .compressbutton{
+    text-align: center;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+  
+  
+  
+</style>
+

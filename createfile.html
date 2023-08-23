@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notepad</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    textarea {
+      width: 100%;
+      height: 300px;
+    }
+    input[type="text"] {
+      width: 200px;
+      margin-bottom: 10px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Notepad</h1>
+  <input type="text" id="filename" placeholder="Enter filename">
+  <br>
+  <textarea id="content"></textarea>
+  <br>
+  <button onclick="saveFile()">Save File</button>
+
+  <script>
+    function saveFile() {
+      var filename = document.getElementById("filename").value;
+      var content = document.getElementById("content").value;
+      var element = document.createElement('a');
+      element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(content));
+      element.setAttribute('download', filename);
+      element.style.display = 'none';
+      document.body.appendChild(element);
+      element.click();
+      document.body.removeChild(element);
+    }
+  </script>
+  <h2>To compress your file, click <a href="index.html">here!</a></h2>
+</body>
+</html>
+
+
+<!-- # Ask user to enter a filename and content
+filename = input("Enter filename: ")
+content = input("Enter content: ")
+
+# Handle the "Save File" button click event
+def saveFile():
+    element = createAnchorElement()
+    element.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(content)
+    element.download = filename
+    element.style.display = 'none'
+    appendToBody(element)
+    simulateClick(element)
+    removeFromBody(element)
+
+# Create an anchor element
+def createAnchorElement():
+    return document.createElement('a')
+
+# Append an element to the document body
+def appendToBody(element):
+    document.body.appendChild(element)
+
+# Simulate a click on an element
+def simulateClick(element):
+    element.click()
+
+# Remove an element from the document body
+def removeFromBody(element):
+    document.body.removeChild(element)
+
+# Provide a link to the compression page
+print("To compress your file, click <a href='index.html'>here!</a>") -->
