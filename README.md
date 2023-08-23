@@ -6,5 +6,5 @@ The file compression and sharing project aims to provide users with a convenient
 
 The following images give an insight of how the website looks:
 
-<img width="798" alt="Screenshot 2023-08-23 at 6 36 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/2fc8c890-8bf9-4a06-bf5e-0a602fa614ba">------------
+<img width="798" alt="Screenshot 2023-08-23 at 6 36 57 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/2fc8c890-8bf9-4a06-bf5e-0a602fa614ba">----------------------------
 Screenshot 1: The above screenshot is the homepage of the website. Each button on the navbar will take the user to create, compress, decompress and share pages
