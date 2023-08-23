@@ -12,3 +12,5 @@ Screenshot 1: The above screenshot is the homepage of the website. Each button o
 [<img width="800" alt="Screenshot 2023-08-23 at 6 38 44 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/c1dafa02-1a3d-44fb-9a01-9f375bbe1aa0">](https://github.com/karthik-karalgikar/-DE--COMPRESS/issues/1#issuecomment-1689937633)-----------------------
 Screenshot 2:  The Screenshot above lets the user name their file and type some content on to the text-box. The file and the text can be anything and when “Save File” button is clicked the, file is saved on the user’s system. If the user wants to compress the downloaded file, then they can just click on the link at the bottom of the page and he/she is directed to the “compress-decompress page”. 
 
+<img width="812" alt="Screenshot 2023-08-23 at 6 41 33 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/822f3458-2a1e-4737-a348-959a3fa042b8">
+Screenshot 3: Showing the size of the file which the user just created. It can be seen that the ‘compressmain.txt’ file takes up 590kb of space.
