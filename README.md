@@ -14,3 +14,7 @@ Screenshot 2:  The Screenshot above lets the user name their file and type some 
 
 <img width="812" alt="Screenshot 2023-08-23 at 6 41 33 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/822f3458-2a1e-4737-a348-959a3fa042b8">----------------------
 Screenshot 3: Showing the size of the file which the user just created. It can be seen that the ‘compressmain.txt’ file takes up 590kb of space.
+
+<img width="764" alt="Screenshot 2023-08-23 at 6 43 36 PM" src="https://github.com/karthik-karalgikar/-DE--COMPRESS/assets/91562537/905f09ef-9e6d-485d-8dbd-ad7361b6bd54">
+Screenshot 4:  Showing the Compress-decompress page. Here the ‘compress main.txt’ has been uploaded and next the user has to click on the “COMPRESS” button to compress the file. Once that has been done, the compressed version of the file is downloaded on to the user’s system.
+
